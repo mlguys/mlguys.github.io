@@ -40,7 +40,7 @@ google_analytics:
 
 # RSS
 # feed.path: https://mlguys.github.io
-feed: https://mlguys.github.io
+feed: mlguys.github.io
 
 # Plugins
 gems:
