@@ -39,8 +39,8 @@ facebook_image:
 google_analytics:
 
 # RSS
-feed.path: https://mlguys.github.io/
-feed: https://mlguys.github.io/
+# feed.path: https://mlguys.github.io
+feed: https://mlguys.github.io
 
 # Plugins
 gems:
